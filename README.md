@@ -33,7 +33,7 @@ Tenho forte preocupação com arquitetura e manutenibilidade, aplicando boas pr�
 
 ## 📊 Estatísticas
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucasrfernandes&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasrfernandes&layout=compact&theme=dracula)
 
 ---
 
