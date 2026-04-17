@@ -33,7 +33,9 @@ Tenho forte preocupação com arquitetura e manutenibilidade, aplicando boas pr�
 
 ## 📊 Estatísticas
 
-![Top Langs](![GitHub status](https://github-readme-stats-three-omega-22.vercel.app/api?username=devlucasrfernandes&show_icons=true&theme=dracula&count_private=true&include_all_commits=true))
+![GitHub stats](https://github-readme-stats-three-omega-22.vercel.app/api?username=devlucasrfernandes&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats-three-omega-22.vercel.app/api/top-langs/?username=devlucasrfernandes&layout=compact&theme=dracula)
 
 ---
 
