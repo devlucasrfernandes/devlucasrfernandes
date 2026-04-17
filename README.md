@@ -1,6 +1,6 @@
 # Lucas Fernandes
 
-**Desenvolvedor Back-End | Node.js | TypeScript | Sistemas Escaláveis**
+**Software Engineer | Node.js | TypeScript | Sistemas Escaláveis**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernandes-0a055821a/)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Back-End com experiência na construção de APIs escaláveis e sistemas de alta disponibilidade.
+Software Engineer com experiência na construção de APIs escaláveis e sistemas de alta disponibilidade.
 
 Atuo em ambientes de alta demanda, com foco em performance, confiabilidade e qualidade de código.  
 Tenho forte preocupação com arquitetura e manutenibilidade, aplicando boas práticas como **SOLID**, **Clean Code** e **TDD**.
